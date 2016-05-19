@@ -2,12 +2,12 @@
 <metadata>
   <groupId>sk.tomsik68</groupId>
   <artifactId>mclauncher-api</artifactId>
+  <version>0.3.2-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.2.1</version>
-      <version>0.3</version>
-      <version>0.3.2-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20160519.191134</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
     <lastUpdated>20160519191134</lastUpdated>
   </versioning>
 </metadata>
