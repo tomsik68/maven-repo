@@ -3,13 +3,14 @@
   <groupId>sk.tomsik68</groupId>
   <artifactId>mclauncher-api</artifactId>
   <versioning>
-    <release>0.3.2</release>
+    <release>0.3.3</release>
     <versions>
       <version>0.2.1</version>
       <version>0.3</version>
       <version>0.3.2-SNAPSHOT</version>
       <version>0.3.2</version>
+      <version>0.3.3</version>
     </versions>
-    <lastUpdated>20190520161350</lastUpdated>
+    <lastUpdated>20190617130436</lastUpdated>
   </versioning>
 </metadata>
